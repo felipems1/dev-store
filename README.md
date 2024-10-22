@@ -1,9 +1,3 @@
-<h1 align="center">Dev Store</h1>
-
-<div align="center">
-  <img src="./public/preview.png" alt="demonstração do projeto" >
-</div>
-
 ## 1 - Sobre
 
 Devstore é um projeto de e-commerce de produtos voltados para devs como camisetas, moletons, canecas.
